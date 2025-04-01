@@ -37,14 +37,31 @@
   transition: 0.3s ease background-color;
 }
 
-.tw-followCard-button.is-following {
-  border: 1px solid #09f;
-}
-
 .tw-followCard-button:hover {
-  background: #09f;
+  opacity: 0.8;
+  background: rgb(1, 174, 255);
 }
 
+.tw-followCard-button.is-following {
+  border: 1px solid #bbb;
+  background: transparent;
+  color: #fff;
+  width: 140px;
+}
 .tw-followCard-button.is-following:hover {
-  background: red;
+  background: rgba(255, 0, 0, 0.1);
+  color: red;
+  border: 1px solid red;
+}
+
+.tw-followCard-button.is-following:hover .tw-followCard-text {
+  display: none;
+}
+
+.tw-followCard-button.is-following:hover .tw-followCard-stopFollow {
+  display: block;
+}
+
+.tw-followCard-stopFollow {
+  display: none;
 }
