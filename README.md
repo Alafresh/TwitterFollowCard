@@ -1,12 +1,51 @@
-# React + Vite
+# Twitter Follow Card con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una implementación de una **tarjeta de seguimiento** al estilo de Twitter, desarrollada con **React**. Fue creada con propósitos educativos y de práctica con hooks como `useState`.
 
-Currently, two official plugins are available:
+## 🖼️ Vista Previa
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Vista previa](./public/image.png)
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- CSS para el diseño
+- `useState` para manejar el estado de seguimiento
+
+## 📂 Instalación y uso
+
+1. **Clonar el repositorio:**
+
+   ```sh
+   git clone https://github.com/tu-usuario/TwitterFollowCard.git
+   cd TwitterFollowCard
+   ```
+
+2. **Instalar dependencias:**
+
+   ```sh
+   npm install
+   ```
+
+3. **Ejecutar el proyecto:**
+
+   ```sh
+   npm run dev
+   ```
+
+4. **Abrir en el navegador:**
+   Normalmente se ejecuta en `http://localhost:5173/` (o el puerto que indique la terminal).
+
+## ✨ Características
+
+- Interfaz inspirada en Twitter.
+- Botón cambia de estado entre "Seguir" y "Siguiendo" con `useState`.
+- Estilos personalizados para mejorar la experiencia visual.
+
+## 📜 Licencia
+
+Este proyecto es solo para propósitos de aprendizaje y no tiene fines comerciales.
+
+---
+
+📌 **Nota:** Si quieres modificar el código o mejorar el diseño, siéntete libre de hacerlo. ¡Cualquier feedback es bienvenido! 🚀
