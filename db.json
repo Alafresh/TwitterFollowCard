@@ -4,13 +4,13 @@
       "id": 1,
       "username": "Fidel",
       "state": true,
-      "deck": [12, 7, 19, 25, 33, 101]
+      "deck": [12, 7, 241, 25, 33, 101]
     },
     {
       "id": 2,
       "username": "Juanito",
       "state": true,
-      "deck": [104, 88, 93, 77]
+      "deck": [110, 88, 93, 77]
     },
     {
       "id": 3,
