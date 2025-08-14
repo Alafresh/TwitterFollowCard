@@ -2,31 +2,31 @@
   "users": [
     {
       "id": 1,
-      "username": "alvarado",
+      "username": "Fidel",
       "state": true,
       "deck": [12, 7, 19, 25, 33]
     },
     {
       "id": 2,
-      "username": "valentina",
+      "username": "Juanito",
       "state": true,
       "deck": [101, 88, 93, 77, 65]
     },
     {
       "id": 3,
-      "username": "torres",
+      "username": "Natalia",
       "state": true,
       "deck": [210, 305, 412, 509, 678]
     },
     {
       "id": 4,
-      "username": "marquez",
+      "username": "Adolfo",
       "state": true,
       "deck": [9, 14, 28, 37, 42]
     },
     {
       "id": 5,
-      "username": "camila",
+      "username": "Andres",
       "state": true,
       "deck": [85, 95, 123, 145, 167]
     }
