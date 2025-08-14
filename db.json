@@ -4,31 +4,31 @@
       "id": 1,
       "username": "Fidel",
       "state": true,
-      "deck": [12, 7, 19, 25, 33]
+      "deck": [12, 7, 19, 25, 33, 101]
     },
     {
       "id": 2,
       "username": "Juanito",
       "state": true,
-      "deck": [101, 88, 93, 77, 65]
+      "deck": [101, 88, 93, 77]
     },
     {
       "id": 3,
       "username": "Natalia",
       "state": true,
-      "deck": [210, 305, 412, 509, 678]
+      "deck": [210, 305, 412, 509, 678, 65, 121, 291]
     },
     {
       "id": 4,
       "username": "Adolfo",
       "state": true,
-      "deck": [9, 14, 28, 37, 42]
+      "deck": [9, 14, 28, 37, 42, 321, 405, 33, 381, 500]
     },
     {
       "id": 5,
       "username": "Andres",
       "state": true,
-      "deck": [85, 95, 123, 145, 167]
+      "deck": [85, 95, 123, 145, 167, 150, 250, 350, 450, 550, 650, 750]
     }
   ]
   ,
